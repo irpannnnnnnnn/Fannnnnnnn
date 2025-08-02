@@ -9,12 +9,12 @@
   top: 700px ;
   color: cornsilk;
   left: 250px;
-  font-size: 5rem;
+  font-size: 20rem;
 }
 
 #pauseBtn {
   position: absolute;
-  left: 130px;   /* Geser ke kanan */
+  left: 200px;   /* Geser ke kanan */
 }
 
 audio {
